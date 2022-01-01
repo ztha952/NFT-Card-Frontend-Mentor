@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color:  hsl(217, 54%, 11%);
+	position: relative;
+	color: white;
+	
+
+}
+
+
+
+
+
+.main{
+	height: 90vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.card{
+	
+	background-color: hsl(216, 50%, 16%);
+	margin: 0 auto;
+	
+	
+}
+
+
